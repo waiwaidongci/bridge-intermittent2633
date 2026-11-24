@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Overpass:wght@400;600;700&family=Gloock&display=swap');
+:root {
+  --text-font: 'Overpass'; --title-font: 'Gloock';
+  --paper: oklch(.975 .012 35); --surface: oklch(.994 .006 35);
+  --ink: oklch(.235 .035 35); --quiet: oklch(.435 .038 35);
+  --stripe: oklch(.961 .014 35); --rule: oklch(.858 .024 35);
+  --accent: oklch(.445 0.134 35); --button-ink: oklch(.98 .007 35);
+  --focus: oklch(.64 0.134 35);
+  --side: oklch(.923 .029 35);
+  --side-ink: oklch(.255 .033 35);
+  --highlight: oklch(.866 .045 35);
+  --highlight-edge: oklch(.49 .10 35);
+  --side-width: 258px; --side-pad: 1.45rem;
+  --login-ratio: 1.6900000000000002fr; --report-stripe: 9px;
+}
